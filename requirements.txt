@@ -1,0 +1,12 @@
+python-dotenv
+
+langchain
+langchain_community 
+langgraph
+litellm
+
+wikipedia
+duckduckgo-search 
+tavily-python
+
+streamlit
